@@ -1,5 +1,11 @@
 # 💫 About Me:
-Hi, I'm Manimekhalai P, a dedicated MERN Stack Full-Stack Developer with a strong focus on building responsive and user-friendly web applications. I specialize in creating modern web interfaces using HTML, CSS, JavaScript, ReactJS, and Bootstrap. I also handle backend development with the MERN stack. I enjoy turning ideas into real applications and I continuously learn new technologies to improve my skills. Skilled in: Frontend: HTML, CSS, JavaScript, ReactJS, Bootstrap Backend: MongoDB, Express.js, Node.js Version Control: Git and GitHub What I’m interested in: Building scalable web applications Writing clean and maintainable code Exploring new tools and technologies in web development I’m always eager to learn, collaborate, and contribute to meaningful projects.
+Hi, I'm **Manimekhalai P**, a dedicated MERN Stack Full-Stack Developer with a strong focus on building responsive and user-friendly web applications. 
+I specialize in creating modern web interfaces using HTML, CSS, JavaScript, ReactJS, and Bootstrap. I also handle backend development with the MERN stack.
+I enjoy turning ideas into real applications and I continuously learn new technologies to improve my skills. 
+**Skilled** **in**:- 
+_**Frontend**_: HTML, CSS, JavaScript, ReactJS, Bootstrap 
+_**Backend:**_ MongoDB, Express.js, Node.js Version Control: Git and GitHub \
+I'm interested in building scalable web applications Writing clean and maintainable code Exploring new tools and technologies in web development I’m always eager to learn, collaborate, and contribute to meaningful projects.
 
 
 ## 🌐 Socials:
